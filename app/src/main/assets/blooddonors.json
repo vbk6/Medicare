@@ -1,0 +1,40 @@
+{
+  "bloodDonors": [
+    {
+      "donorName": "Rijo",
+      "age": "23",
+      "bloodGroup": "A-ve",
+      "phoneNo": "9946063672",
+      "address": "Trivandrum",
+      "location": "Trivandrum"
+
+    },
+    {
+      "donorName": "vishnu",
+      "age": "23",
+      "bloodGroup": "A+ve",
+      "phoneNo": "9946063673",
+      "address": "Trivandrum",
+      "location": "Trivandrum"
+
+    },
+    {
+      "donorName": "Akhil",
+      "age": "23",
+      "bloodGroup": "O+ve",
+      "phoneNo": "9946063674",
+      "address": "Trivandrum",
+      "location": "Trivandrum"
+
+    },
+    {
+      "donorName": "Sravan",
+      "age": "23",
+      "bloodGroup": "AB+ve",
+      "phoneNo": "9946063674",
+      "address": "Kollam",
+      "location": "Kollam"
+
+    }
+  ]
+}

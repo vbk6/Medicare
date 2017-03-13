@@ -1,0 +1,32 @@
+{
+  "laboraties": [
+    {
+      "labName": "Rijo",
+      "phoneNo": "9946063672",
+      "address": "Trivandrum",
+      "location": "Trivandrum"
+
+    },
+    {
+      "labName": "vishnu",
+      "phoneNo": "9946063673",
+      "address": "Trivandrum",
+      "location": "Trivandrum"
+
+    },
+    {
+      "labName": "Akhil",
+      "phoneNo": "9946063674",
+      "address": "Trivandrum",
+      "location": "Trivandrum"
+
+    },
+    {
+      "labName": "Sravan",
+      "phoneNo": "9946063675",
+      "address": "Kollam",
+      "location": "Kollam"
+
+    }
+  ]
+}

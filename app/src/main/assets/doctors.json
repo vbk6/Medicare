@@ -1,0 +1,40 @@
+{
+  "doctors": [
+    {
+      "doctorName": "Rijo",
+      "hospitalName": "Anadyil",
+      "specialization": "Paediatrics",
+      "phoneNo": "9946063672",
+      "address": "Trivandrum",
+      "location": "Trivandrum"
+
+    },
+    {
+       "doctorName": "Vishnu",
+      "hospitalName": "SUT",
+      "specialization": "Paediatrics",
+      "phoneNo": "9946063672",
+      "address": "Trivandrum",
+      "location": "Trivandrum"
+
+    },
+    {
+       "doctorName": "Akhil",
+      "hospitalName": "Jubilee",
+      "specialization": "Orthology",
+      "phoneNo": "9946063672",
+      "address": "Trivandrum",
+      "location": "Trivandrum"
+
+    },
+    {
+     "doctorName": "Sravan",
+      "hospitalName": "KIMS",
+      "specialization": "Gynachology",
+      "phoneNo": "9946063672",
+      "address": "Trivandrum",
+      "location": "Trivandrum"
+
+    }
+  ]
+}

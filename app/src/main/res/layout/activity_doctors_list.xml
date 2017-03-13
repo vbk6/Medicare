@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="Doctors"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:id="@+id/textView"
+        android:textSize="20sp"
+        android:textColor="#ffffff"
+        android:background="#40C4FF"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"/>
+
+    <SearchView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/search"
+        />
+
+    <ListView
+        android:id="@+id/doctorsList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:divider="@color/cardview_light_background"
+       />
+
+</LinearLayout>

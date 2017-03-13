@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MediCare</string>
+    <array name="locations">
+        <item>"Trivandrum"</item>
+        <item>"Kollam"</item>
+        <item>"Pathanamthitta"</item>
+        <item>"Alappuzha"</item>
+        <item>"Kottayam"</item>
+        <item>"Idukki"</item>
+        <item>"Ernakulam"</item>
+        <item>"Thrissur"</item>
+        <item>"Palakkad"</item>
+        <item>"Malappuram"</item>
+        <item>"Kozhikode"</item>
+        <item>"Wayanad"</item>
+        <item>"Kannur"</item>
+        <item>"Kasargod"</item>
+    </array>
+</resources>
